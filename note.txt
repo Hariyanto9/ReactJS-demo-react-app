@@ -1,0 +1,14 @@
+Resume React JS:
+1. component React JS ada 3:
+- Class component
+- function component
+- arrow function component
+
+2. cara export import
+export default Navbar  => import Navbar from "./Navbar";
+
+export const Navbar = () => {
+
+}
+
+import { Navbar } from "./Navbar";
